@@ -9,10 +9,14 @@ The game Menu has 2 command:
 
 * **Quit**: Will exit the application
 
+<p align="center">
+    <img src="Images/Game.PNG" alt="Options Menu" height=120 >
+</p>
+
 ### OPTIONS MENU
 Several options are available to configure the simulation as shown in the below screenshot:
 <p align="center">
-    <img src="Images/Options.PNG" alt="Options Menu" height=250 >
+    <img src="Images/Options.PNG" alt="Options Menu" height=220 >
 </p>
 
 * **Select board size**: Allows the user to select the size of the board for the simulation. 3 sizes are available and the option is taken into account only when `Game -> New Game` is selected.
