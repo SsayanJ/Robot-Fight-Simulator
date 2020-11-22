@@ -12,7 +12,7 @@ The game Menu has 2 command:
 ### OPTIONS MENU
 Several options are available to configure the simulation as shown in the below screenshot:
 <p align="center">
-    <img src="./Images/Options.png" alt="Options Menu" height=250 >
+    <img src="Images/Options.PNG" alt="Options Menu" height=250 >
 </p>
 
 * **Select board size**: Allows the user to select the size of the board for the simulation. 3 sizes are available and the option is taken into account only when `Game -> New Game` is selected.
@@ -27,7 +27,7 @@ Several options are available to configure the simulation as shown in the below 
 ### TEAM SELECTION
 When the simulator is launched or `Game -> New Game` is selected, the below screen allows the user to select the quantity and types of robots in each team.
 <p align="center">
-    <img src="Images/Team.png" alt="Team Selection Screen" height=350 >
+    <img src="Images/Team.PNG" alt="Team Selection Screen" height=350 >
 </p>
 
 There are **4** Types of Robots are available with different behaviours. However they all beneficiate from the **Smart fire** and **Smart Movement** options when they are activated. The number of robots available for each team is between 1 and the number equivalent to the board size. Any combination of behaviour is possible. Once the composition of each team has been selected, the user needs to click on **Fill Grid** to launch the simulation.
@@ -54,7 +54,7 @@ There are **4** Types of Robots are available with different behaviours. However
 
 
 <p align="center">
-    <img src="Images/Turn.png" alt="Simulation Screen" height=350 >
+    <img src="Images/Turn.PNG" alt="Simulation Screen" height=350 >
 </p>
 
 On this screen, the board is now filled with the robots and separated in 2 parts. The board in the top part will display the behaviour of the robots. A counter for each team is showing how many robots are still active for each team. Two buttons are available to launch the simulation:
